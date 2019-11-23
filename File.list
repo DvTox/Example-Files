@@ -1,0 +1,120 @@
+.
+├── AudioFiles
+│   ├── MP3
+│   │   ├── Example_MP3_Audio_[1MB].mp3
+│   │   ├── Example_MP3_Audio_[2MB].mp3
+│   │   ├── Example_MP3_Audio_[5MB].mp3
+│   │   └── Example_MP3_Audio_[700KB].mp3
+│   ├── OGG
+│   │   ├── Example_OGG_Audio_[1MB].ogg
+│   │   ├── Example_OGG_Audio_[2MB].ogg
+│   │   └── Example_OGG_Audio_[5MB].ogg
+│   └── WAV
+│       ├── Example_WAV_Audio_[10MB].wav
+│       ├── Example_WAV_Audio_[1MB].wav
+│       ├── Example_WAV_Audio_[2MB].wav
+│       └── Example_WAV_Audio_[5MB].wav
+├── DocFiles
+│   ├── DOC-DOCx
+│   │   ├── Example_DOC_DOCS_[100KB].doc
+│   │   ├── Example_DOC_DOCS_[1MB].doc
+│   │   ├── Example_DOC_DOCS_[500KB].doc
+│   │   ├── Example_DOCX_DOCS_[100KB].docx
+│   │   ├── Example_DOCX_DOCS_[1MB].docx
+│   │   └── Example_DOCX_DOCS_[500KB].docx
+│   ├── ODP
+│   │   ├── Example_ODP_DOCS_[1MB].odp
+│   │   ├── Example_ODP_DOCS_[200KB].odp
+│   │   └── Example_ODP_DOCS_[500KB].odp
+│   ├── ODS
+│   │   ├── Example_ODS_DOCS_[1000rows].ods
+│   │   ├── Example_ODS_DOCS_[100rows].ods
+│   │   ├── Example_ODS_DOCS_[10rows].ods
+│   │   └── Example_ODS_DOCS_[5000rows].ods
+│   ├── ODT
+│   │   ├── Example_ODT_DOCS_[100KB].odt
+│   │   ├── Example_ODT_DOCS_[1MB].odt
+│   │   └── Example_ODT_DOCS_[500KB].odt
+│   ├── PDF
+│   │   ├── Example_PDF_DOCS_[150KB].pdf
+│   │   ├── Example_PDF_DOCS_[1MB].pdf
+│   │   └── Example_PDF_DOCS_[500KB].pdf
+│   ├── PPT-PPTx
+│   │   ├── Example_PPT_DOCS_[1MB].ppt
+│   │   ├── Example_PPT_DOCS_[250KB].ppt
+│   │   └── Example_PPT_DOCS_[500KB].ppt
+│   ├── RTF
+│   │   ├── Example_RTF_DOCS_[100KB].rtf
+│   │   ├── Example_RTF_DOCS_[1MB].rtf
+│   │   ├── Example_RTF_DOCS_[300KB].rtf
+│   │   └── Example_RTF_DOCS_[500KB].rtf
+│   └── XLS-XLSx
+│       ├── Example_XLS_DOCS_[1000rows].xls
+│       ├── Example_XLS_DOCS_[100rows].xls
+│       ├── Example_XLS_DOCS_[10rows].xls
+│       ├── Example_XLS_DOCS_[5000rows].xls
+│       ├── Example_XLS_DOCS_[50rows].xls
+│       ├── Example_XLSX_DOCS_[1000rows].xlsx
+│       ├── Example_XLSX_DOCS_[100rows].xlsx
+│       ├── Example_XLSX_DOCS_[10rows].xlsx
+│       ├── Example_XLSX_DOCS_[5000rows].xlsx
+│       └── Example_XLSX_DOCS_[50rows].xlsx
+├── File.list
+├── ImageFiles
+│   ├── GIF
+│   │   └── Example_GIF_IMG_[Moving].gif
+│   ├── GIF-IMG
+│   │   ├── Example_GIF_Picture_[1MB].gif
+│   │   ├── Example_GIF_Picture_[3.5MB].gif
+│   │   └── Example_GIF_Picture_[500KB].gif
+│   ├── ICO
+│   │   └── Example_ICO_Picture_[400B].ico
+│   ├── JPG
+│   │   ├── Example_JPG_Picture_[100KB].jpg
+│   │   ├── Example_JPG_Picture_[1MB].jpg
+│   │   ├── Example_JPG_Picture_[2.5MB].jpg
+│   │   └── Example_JPG_Picture_[500KB].jpg
+│   ├── PNG
+│   │   ├── Example_PNG_Picture_[1MB].png
+│   │   ├── Example_PNG_Picture_[2MB].png
+│   │   ├── Example_PNG_Picture_[3MB].png
+│   │   └── Example_PNG_Picture_[500KB].png
+│   └── TIFF
+│       ├── Example_TIFF_Picture_[10MB].tiff
+│       ├── Example_TIFF_Picture_[1MB].tiff
+│       └── Example_TIFF_Picture_[5MB].tiff
+├── TarFiles
+│   ├── ExampleTar.tar
+│   ├── ExampleTar.tar.bz2
+│   ├── ExampleTar.tar.gz
+│   ├── ExampleTar.tar.xz
+│   ├── ExampleTar.tbz2
+│   └── ExampleTar.tgz
+└── VideoFiles
+    ├── AVI
+    │   ├── Example_AVI_Video_[1280x720].avi
+    │   ├── Example_AVI_Video_[1920x1080].avi
+    │   ├── Example_AVI_Video_[480x270].avi
+    │   └── Example_AVI_Video_[640x360].avi
+    ├── MOV
+    │   ├── Example_MOV_Video_[1280x720].mov
+    │   ├── Example_MOV_Video_[1920x1080].mov
+    │   ├── Example_MOV_Video_[480x270].mov
+    │   └── Example_MOV_Video_[640x320].mov
+    ├── MP4
+    │   ├── Example_MP4_Video_[1280x720].mp4
+    │   ├── Example_MP4_Video_[1920x1080].mp4
+    │   ├── Example_MP4_Video_[480x270].mp4
+    │   └── Example_MP4_Video_[640x360].mp4
+    ├── OGG
+    │   ├── Example_OGG_Video_[1280x720].OGG
+    │   ├── Example_OGG_Video_[1920x1080].OGG
+    │   ├── Example_OGG_Video_[480x270].OGG
+    │   └── Example_OGG_Video_[640x360].OGG
+    └── WMV
+        ├── Example_WMV_Video_[1280x720].wmv
+        ├── Example_WMV_Video_[1920x1080].wmv
+        ├── Example_WMV_Video_[480x270].wmv
+        └── Example_WMV_Video_[640x360].wmv
+
+27 directories, 90 files
